@@ -17,6 +17,6 @@ npm install
 ```
 
 _Inspirado em um reels do instagram_
-__@frontendjoe__ - _Thanks for inpiration_. ❣️👨🏾‍💻 _
+__@frontendjoe__ - _Thanks for inpiration_. ❣️👨🏾‍💻
 
 
