@@ -1,6 +1,7 @@
 # My Card
 
-Projeto bem simples contendo meu card.
+Projeto bem simples contendo meu card responsivo.
+![my-card](image.png)
 ## Como ter uma copia?
 
 Faça do download do repositório pelo ``git clone``, e siga o passo a passo:
